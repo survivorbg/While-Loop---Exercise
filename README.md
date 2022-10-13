@@ -1,1 +1,1 @@
-# While Loop - Exercise
+Exercises on while-loop.
